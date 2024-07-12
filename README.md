@@ -5,4 +5,4 @@ This repository has the source code for OpenJFX 23 Update Releases. The main rep
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on submitting backport pull requests to OpenJFX 23. If you are looking to contribute to OpenJFX, please visit [openjdk/jfx](https://github.com/openjdk/jfx) instead.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on submitting backport pull requests to OpenJFX 23 Updates. If you are looking to contribute to OpenJFX, please visit [openjdk/jfx](https://github.com/openjdk/jfx) instead.
