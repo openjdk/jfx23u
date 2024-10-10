@@ -1,0 +1,34 @@
+# Release Notes for JavaFX 23.0.1
+
+## Introduction
+
+The following notes describe important changes and information about this release. In some cases, the descriptions provide links to additional detailed information about an issue or a change.
+
+These notes document the JavaFX 23.0.1 update release. As such, they complement the [JavaFX 23](https://github.com/openjdk/jfx23u/blob/master/doc-files/release-notes-23.md) release notes.
+
+## List of Fixed Bugs
+
+Issue key | Summary | Subcomponent
+--------- | ------- | ------------
+[JDK-8334874](URL/JDK-8334874) | Horizontal scroll events from touch pads should scroll the TabPane tabs | controls
+[JDK-8323787](URL/JDK-8323787) | Mac System MenuBar throws IOB exception | graphics
+[JDK-8336277](URL/JDK-8336277) | Colors are incorrect when playing H.265/HEVC on Windows 11 | media
+[JDK-8336938](URL/JDK-8336938) | Update libFFI to 3.4.6 | media
+[JDK-8336939](URL/JDK-8336939) | Update Glib to 2.80.4 | media
+[JDK-8336940](URL/JDK-8336940) | Update GStreamer to 1.24.6 | media
+[JDK-8338701](URL/JDK-8338701) | Provide media support for libavcodec version 61 | media
+[JDK-8328994](URL/JDK-8328994) | Update WebKit to 619.1 | web
+[JDK-8334124](URL/JDK-8334124) | Rendering issues with CSS "text-shadow" in WebView | web
+[JDK-8336798](URL/JDK-8336798) | DRT test cssrounding.html test for linear layout fails with WebKit 619.1 | web
+[JDK-8336941](URL/JDK-8336941) | Update libxslt to 1.1.42 | web
+[JDK-8337481](URL/JDK-8337481) | File API: file.name contains path instead of name | web
+[JDK-8338306](URL/JDK-8338306) | WebView Drag and Drop fails with WebKit 619.1 | web
+[JDK-8338307](URL/JDK-8338307) | Additional WebKit 619.1 fixes from WebKitGTK 2.44.3 | web
+[JDK-8319779](URL/JDK-8319779) | SystemMenu: memory leak due to listener never being removed | window-toolkit
+
+
+## List of Security fixes
+
+Issue key | Summary | Subcomponent
+--------- | ------- | ------------
+JDK-nnnnnnn (not public) | TITLE | SUBCOMPONENT
