@@ -6,11 +6,16 @@ The following notes describe important changes and information about this releas
 
 These notes document the JavaFX 23.0.1 update release. As such, they complement the [JavaFX 23](https://github.com/openjdk/jfx23u/blob/master/doc-files/release-notes-23.md) release notes.
 
+## List of Enhancements
+
+Issue Key | Summary | Subcomponent
+--------- | ------- | ------------
+[JDK-8334874](https://bugs.openjdk.org/browse/JDK-8334874) | Horizontal scroll events from touch pads should scroll the TabPane tabs | controls
+
 ## List of Fixed Bugs
 
 Issue key | Summary | Subcomponent
 --------- | ------- | ------------
-[JDK-8334874](https://bugs.openjdk.org/browse/JDK-8334874) | Horizontal scroll events from touch pads should scroll the TabPane tabs | controls
 [JDK-8323787](https://bugs.openjdk.org/browse/JDK-8323787) | Mac System MenuBar throws IOB exception | graphics
 [JDK-8336277](https://bugs.openjdk.org/browse/JDK-8336277) | Colors are incorrect when playing H.265/HEVC on Windows 11 | media
 [JDK-8336938](https://bugs.openjdk.org/browse/JDK-8336938) | Update libFFI to 3.4.6 | media
