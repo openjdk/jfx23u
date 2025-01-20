@@ -18,4 +18,5 @@ Issue key | Summary | Subcomponent
 
 Issue key | Summary | Subcomponent
 --------- | ------- | ------------
-JDK-nnnnnnn (not public) | TITLE | SUBCOMPONENT
+JDK-8335714 (not public) | Enhance playing MP3s | media
+JDK-8335715 (not public) | Improve Direct Show support | media
